@@ -48,3 +48,6 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+# VolunteerEaseMobileApplication
+VolunteerEase is a mobile application built using Expo. It offers two types of login options: one for organizations and another for regular users. Users who log in as an organization can add events, while users who log in as regular users can apply to volunteer for those events. 
